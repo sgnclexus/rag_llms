@@ -49,6 +49,6 @@ Then use this like reference:
 
 End with an example of getting some data out of the system or using it for a little demo.
 
-## References <a name = "reference"></a>
+## References <a name = "references"></a>
 
 This example is based on structured-rag-pdf by thu-vu92
